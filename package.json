@@ -1,5 +1,5 @@
 {
-  "name": "vue-h5-swiper",
+  "name": "@joyjoyful92/vue-h5-swiper-shcard",
   "version": "1.0.4",
   "main": "dist/swiper.umd.js",
   "module": "dist/swiper.esm.js",
@@ -23,7 +23,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EdgarAllanzp/vue-h5-swiper.git"
+    "url": "git+https://github.com/joyjoyful92/vue-h5-swiper-shcard"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
   },
   "keywords": [
     "vue-h5-swiper",
