@@ -1,6 +1,6 @@
 {
   "name": "@joyjoyful92/vue-h5-swiper-shcard",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "main": "dist/swiper.umd.js",
   "module": "dist/swiper.esm.js",
   "unpkg": "dist/swiper.min.js",
