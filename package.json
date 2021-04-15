@@ -1,6 +1,6 @@
 {
   "name": "@joyjoyful92/vue-h5-swiper-shcard",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "main": "dist/swiper.umd.js",
   "module": "dist/swiper.esm.js",
   "unpkg": "dist/swiper.min.js",
@@ -82,7 +82,7 @@
     "webpack-dev-server": "^3.3.1"
   },
   "dependencies": {
-    "ustbhuangyi/better-scroll": "^1.15.2"
+    "better-scroll": "^1.15.2"
   },
   "jest": {
     "moduleFileExtensions": [
