@@ -87,7 +87,7 @@ export default {
   },
 
   mounted() {
-    this.initItems();
+    // this.initItems();
     this.$on('swipe', this.handleSwipe);
     this.$on('pageAnimationEnd', this.handlePageAnimationEnd);
     this.setActiveItem(0);

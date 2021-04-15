@@ -77,6 +77,7 @@ export default {
   },
 
   mounted() {
+    this.$parent.initItems();
     this.scroll = new BScroll(this.$refs['swiper-content'], {
       mouseWheel: true,
       bounce: {
